@@ -1,3 +1,4 @@
+![logo](https://github.com/Riyachaudhary003/Riyachaudhary003/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Riya Chaudhary</h1>
 <h3 align="center">3rd Year Computer Science Engineering Student .</h3>
 
